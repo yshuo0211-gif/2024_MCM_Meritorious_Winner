@@ -1,9 +1,9 @@
 # Restatement of the Problem
 
 To analyze the advantages and disadvantages of species altering sex ratios based on resource availability and gain deeper insights into the interactions generated within ecosystems, our developed model achieves the following:
-1.     Accounts for the impact of seven-gill shark populations on other organisms within the ecosystem
-2.     Considers how the sex ratio of seven-gill sharks is influenced by environmental factors
-3.     Examines the specific mechanisms through which seven-gill sharks affect ecosystem stability
+1. Accounts for the impact of seven-gill shark populations on other organisms within the ecosystem
+2. Considers how the sex ratio of seven-gill sharks is influenced by environmental factors
+3. Examines the specific mechanisms through which seven-gill sharks affect ecosystem stability
 
 # Our work
 
